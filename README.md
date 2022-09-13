@@ -14,8 +14,16 @@
 ### Word guessing game, written in JavaScript and beautifully designed in CSS
 This is a word guessing game that I built.
 <br>
-You can play it here: [Word Guessing Game]()
+You can play it here: [Word Guessing Game](https://rachit-pal.github.io/Word-guessing-game)
 <br>
 The game will give you a rando word to guess, and the player has to guess the letters in order to unscramble it. <br>
 The game will tell you if your guessed letter is wrong, and also give you a hint about the word. <br>
 Eg: A precious greyish-white metal » Silver
+
+
+<!--- C R E D I T S   A N D   I N F O --->
+
+## ╔═━「 Creator Info 」
+
++ [Rachit-Pal](https://github.com/Rachit-Pal) : CREATOR
++ [Straw Hat](https://github.com/StrawhatNetwork) : NETWORK
